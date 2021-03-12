@@ -14,5 +14,5 @@ Provide a link to your LinkedIn account here.
 https://www.linkedin.com/in/dano-rawlins/
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+[Dano-Resume.pdf](https://github.com/DanoRaw/html-me-something/files/6127150/Dano-Resume.pdf)
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
